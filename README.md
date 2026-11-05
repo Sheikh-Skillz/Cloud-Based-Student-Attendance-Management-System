@@ -17,3 +17,9 @@ Administrator  -	Register students, lecturers, and courses <br>
 Lecturer	     - Record and manage attendance <br>
 Student	       - View attendance history and percentages
   
+* Architecture
+
+
+
+
+  
