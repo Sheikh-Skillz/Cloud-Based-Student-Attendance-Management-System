@@ -1,7 +1,7 @@
 # Cloud-Based-Student-Attendance-Management-System
 This is a secure, serverless application that enables educational institutions to manage students, courses, lecturers, and attendance records.
 
-This project uses AWS services in the implementation of the application. the AWS services and their respective roles are listed below: 
+This project uses AWS services in its implementation. The AWS services and their respective roles are listed below: 
 * Amazon S3 - Frontend hosting and report storage
 * Amazon CloudFront	- Secure website delivery
 * Amazon Cognito	- User authentication
@@ -13,7 +13,7 @@ This project uses AWS services in the implementation of the application. the AWS
 
 Main application users <br> 
 User        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    Responsibilities <br> 
-Administrator -	Register students, lecturers, and courses <br>
-Lecturer	    - Record and manage attendance <br>
-Student	      - View attendance history and percentages
+Administrator  -	Register students, lecturers, and courses <br>
+Lecturer	     - Record and manage attendance <br>
+Student	       - View attendance history and percentages
   
